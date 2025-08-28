@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://civicwatch.it/sitemap.xml
